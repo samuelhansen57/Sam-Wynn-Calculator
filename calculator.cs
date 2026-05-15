@@ -22,7 +22,7 @@ class Program
     static void Calculate()
     {
         Console.WriteLine("===================");
-        Console.WriteLine($"{num1} + {num2} + {num3} + {num4}");
+        Console.WriteLine($"{num1} + {num2} + {num3} + {num4} = {num1 + num2 + num3 + num4}");
         Console.WriteLine("===================");
     }
 }
